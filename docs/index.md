@@ -1,13 +1,3 @@
-<div style="text-align: center; margin: 40px 0;">
-  <h1 style="font-size: 3rem; font-weight: 800; letter-spacing: -1px; margin-bottom: 10px;">
-    Olive Maxwell
-  </h1>
-  <p style="font-size: 1.5rem; color: var(--vp-c-text-2); max-width: 600px; margin: 0 auto;">
-    Technical Writing Portfolio
-  </p>
-</div>
-
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid var(--vp-c-divider);" />
 # How to Implement a Procedural Tile Spawning System in Unreal Engine 5
 
 This guide details how to set up an infinite, optimized procedural tile spawning system for an endless runner prototype using Blueprints.
