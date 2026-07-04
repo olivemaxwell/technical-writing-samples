@@ -10,6 +10,12 @@ export default {
         ]
       },
       {
+        text: 'End-User Operating Manuals',
+        items: [
+          { text: 'Cloud File Migration Utility', link: '/cloud-migration-manual' }
+        ]
+      },
+      {
         text: 'Software Integration Guides',
         items: [
           { text: 'Procedural Tile Spawner', link: '/' },
