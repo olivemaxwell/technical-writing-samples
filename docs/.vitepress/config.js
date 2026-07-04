@@ -1,12 +1,18 @@
 export default {
-  title: "Olive Maxwell - Tech Writing Portfolio",
-  description: "Technical writing samples for game systems and tools.",
+  title: "Olive Maxwell - Technical Writing Portfolio",
+  description: "Technical writing samples for enterprise software systems and APIs.",
   themeConfig: {
     sidebar: [
       {
-        text: 'Unreal Engine 5 Guides',
+        text: 'API Reference Documentation',
         items: [
-          { text: 'Procedural Spawning System', link: '/' },
+          { text: 'User Authentication API', link: '/user-authentication-api' }
+        ]
+      },
+      {
+        text: 'Software Integration Guides',
+        items: [
+          { text: 'Procedural Tile Spawner', link: '/' },
           { text: 'HUD & UI Event Integration', link: '/hud-ui-integration' }
         ]
       }
